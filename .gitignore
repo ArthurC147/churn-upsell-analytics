@@ -1,6 +1,7 @@
 data/raw/*.csv
 data/processed/*.csv
 dashboard/*.pbix
+data/processed/*.db
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
